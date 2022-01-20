@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @Bdeb121
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <h1 align="center">Hi 👋, I'm Debarghya Banerjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdeb121&label=Profile%20views&color=0e75b6&style=flat" alt="bdeb121" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bdeb121&label=Profile%20views&color=0e75b6&style=flat" alt="bdeb121" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdeb121" alt="bdeb121" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bdeb121" alt="bdeb121" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on [Picture Website](https://bdeb121.github.io/Picture)
 
